@@ -26,3 +26,4 @@ O projeto foi construído utilizando as melhores práticas de desenvolvimento we
 Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
 
 clique no link abaixo 👇🏽:
+https://ricardo-viniicius.github.io/landing-page-eletronicos/
